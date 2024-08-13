@@ -45,7 +45,7 @@
     "chart.js": "2.9.4",
     "cross-env": "7.0.3",
     "dayjs": "1.11.7",
-    "nuxt": "2.16.3",
+    "nuxt": "3.12.4",
     "vue": "2.7.14",
     "vue-chartjs": "3.5.1",
     "vue-meta": "2.4.0",
@@ -80,7 +80,7 @@
     "nuxt-purgecss": "1.0.0",
     "nuxt-svg-loader": "1.2.0",
     "nuxt-webfontloader": "1.1.0",
-    "postcss": "8.4.24",
+    "postcss": "8.4.31",
     "postcss-html": "1.5.0",
     "prettier": "2.8.8",
     "quicktype": "23.0.37",
@@ -91,6 +91,6 @@
     "ts-node": "10.9.1",
     "typescript": "5.0.4",
     "vue-axe": "2.4.4",
-    "vue-template-compiler": "2.7.14"
+    "vue-template-compiler": "2.7.16"
   }
 }
